@@ -1,5 +1,5 @@
  👋 Hey, I'm [Sahul Kumar]
-🌱 I’m a self-taught Web Developer from [Your City]  
+🌱 I’m a self-taught Web Developer from [Delhi]  
 💻 I work with HTML, CSS, JavaScript, React, Node.js & MongoDB  
 🌱 I’m currently learning ...
 🚀 Currently building real-world projects to strengthen my skills  
